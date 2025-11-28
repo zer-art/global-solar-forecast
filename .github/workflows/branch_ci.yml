@@ -16,4 +16,5 @@ jobs:
       enable_linting: true
       enable_typechecking: true
       tests_folder: tests
+      python_version: "3.12"
 
